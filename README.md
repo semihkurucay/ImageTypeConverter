@@ -18,3 +18,11 @@
 ## 🖼️ Ekran Görüntüleri
 
 <img width="566" height="474" alt="Ekran görüntüsü 2025-08-23 142550" src="https://github.com/user-attachments/assets/15ef50f5-536d-4876-adf5-39383ae5ef45" />
+
+## ⚖️ Lisans
+
+Bu proje [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) lisansı ile lisanslanmıştır.
+
+🔒 Ticari kullanım yasaktır.  
+📎 Eğitim ve kişisel kullanım için serbesttir.  
+📩 Ticari kullanım için iletişime geçiniz.
